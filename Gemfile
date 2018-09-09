@@ -67,3 +67,4 @@ gem 'delayed_job_active_record'
 ## app-specific gems
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
