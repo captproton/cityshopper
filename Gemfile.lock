@@ -440,6 +440,7 @@ DEPENDENCIES
   dotenv-rails
   factory_bot_rails
   flutie
+  font-awesome-rails (~> 4.7, >= 4.7.0.4)
   formulaic
   high_voltage
   honeybadger
