@@ -68,4 +68,5 @@ gem 'delayed_job_active_record'
 gem 'solidus'
 gem 'solidus_auth_devise'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
-gem 'solidus_paypal_braintree', '~> 0.4.0'
+# gem 'solidus_paypal_braintree', '~> 0.4.0'
+gem 'solidus_paypal_braintree', github: 'solidusio/solidus_paypal_braintree', branch: :master
